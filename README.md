@@ -1,13 +1,13 @@
-# X Docker
+# Unity Docker
 
-Docker container for X
+Docker container for Unity
 
 ## Setup
 
 
 Build the image
 ```
-docker build -t x-image .
+docker build -t unity-image .
 ```
 
 ## Running
